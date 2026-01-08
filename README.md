@@ -20,11 +20,11 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| January 16, 2026 | TBD| |
-| February 20, 2026 | TBD | |
+| January 16, 2026 | Blaine Mooers| |
+| February 20, 2026 |  | |
 | March 27, 2026 | TBD | |
-| April 20, 2026 | Jindahl Shah | TBD |
-| May 15, 2026 | TBD | |
+| April 20, 2026 | Jindahl Shah | Experiences with Knowledge Management |
+| May 15, 2026 | Marcus Birkenkrahe| |
 
 ## Are the talks recorded?
 Yes, both the talk and the discussions are recorded for later viewing.
