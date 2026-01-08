@@ -20,9 +20,6 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| October 17, 2025 | Nisha Roa | Causal inference in health statistics |
-| November 21, 2025 | Cory Giles | Graph neural networks |
-| December 12, 2025 | TBD | |
 | January 16, 2026 | TBD| |
 | February 20, 2026 | TBD | |
 | March 27, 2026 | TBD | |
