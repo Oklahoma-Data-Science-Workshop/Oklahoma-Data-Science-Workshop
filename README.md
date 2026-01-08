@@ -81,6 +81,9 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
 | **2025** | | | | | |
+| December 19, 2025 | Blaine Mooers | Biochemistry and Physiology, OUHSC| AI-assisted Knowledge Management for Scientists |||
+| November 21, 2025 | Cory Giles | Wren Lab, OMRF | GNNs for Multimodal Biological Data Integration|| |
+| October 17, 2025 | Nisha Roa | Lyon College | Causal inference in Public Health Research | ||
 |September 19 | Blaine Mooers |Biochemistry and Physiology, OUHSC   | Introduction to Git and GitHub| [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/ffc3adc5c6c149ebb4eac3564ac469731d?sortBy=most-recent)   | [click](https://github.com/Oklahoma-Data-Science-Workshop/2025-mooers-september)   | 
 | June 27| Marcus Birkenkrahe |Computer Science, Lyon College | Generative AI as Muse or Tool in the Research Process | | |
 | May 23       | Henry Neeman                | OSCER, OU                                 | OU IT Research Computing Capabilities Update                                                      |     |        |
