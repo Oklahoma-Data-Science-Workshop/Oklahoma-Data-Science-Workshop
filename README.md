@@ -77,6 +77,8 @@ Do not take these lists as prescriptive; please use them as inspirational.
 
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
+| **2026** | | | | | |
+| January 16, 2026 | Blaine Mooers | Biochemistry and Physiology, OUHSC| Set up Obsidian with AI to support research | video| [website](https://github.com/Oklahoma-Data-Science-Workshop/2026-mooers-january)   |
 | **2025** | | | | | |
 | December 19, 2025 | Blaine Mooers | Biochemistry and Physiology, OUHSC| AI-assisted Knowledge Management for Scientists |[video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/c5074cc713464cf493167f5ff2f1a66a1d?sortBy=most-recent)||
 | November 21, 2025 | Cory Giles | Wren Lab, OMRF | GNNs for Multimodal Biological Data Integration|[video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/523fca3700c5437490e3d39bf173976c1d?sortBy=most-recent)| |
