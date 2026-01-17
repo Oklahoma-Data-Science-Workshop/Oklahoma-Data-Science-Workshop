@@ -50,10 +50,11 @@ Do not take these lists as prescriptive; please use them as inspirational.
 - Terminal emulators: kitty, Ghostty, warp, Alacrity, Wezterm
 - Windsurf, Cursor, helix, zed
 - Jupyter Lab, RStudio, Visual Studio Code
-
+- treesitter and LSPs
+- Agentic programming
+- 
 ### Knowledge Management
 - Personal knowledge management: supertags, Obsidian, org-roam, ekg, Logseq
-- treesitter and LSPs
 - Reference management
 - Overleaf
 
@@ -63,8 +64,6 @@ Do not take these lists as prescriptive; please use them as inspirational.
 - Simulations in data analysis
 - AI art
 - prompt engineering
-- Agentic programming
-
 
 **What is discussed in the workshop?**
 - Cutting-edge tools and algorithms
